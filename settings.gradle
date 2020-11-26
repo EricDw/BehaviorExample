@@ -1,0 +1,3 @@
+include ':behavior'
+include ':app'
+rootProject.name = "Behavior Example"
